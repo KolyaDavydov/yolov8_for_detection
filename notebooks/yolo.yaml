@@ -1,0 +1,8 @@
+# ВОЗМОЖНО ИЗМЕНИТЬ АБСОЛЮТНЫЙ ПУТЬ PATH ПРИ ЗАПУСКЕ!!!
+path: /home/nikolai/PycharmProjects/pythonProject/src/notebooks/data
+train: images/train
+val: images/val
+
+names:
+  0: left
+  1: right
