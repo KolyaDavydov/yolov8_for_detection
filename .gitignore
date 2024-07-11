@@ -1,1 +1,4 @@
-README.md
+notebooks/data/images/val/*.png
+notebooks/data/images/train/*.png
+notebooks/data/labels/val/*.txt
+notebooks/data/labels/train/*.txt
